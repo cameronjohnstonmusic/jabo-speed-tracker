@@ -2,7 +2,7 @@
 	"name" : "jabo-speed-tracker",
 	"version" : 1,
 	"creationdate" : 3764805744,
-	"modificationdate" : 3764805852,
+	"modificationdate" : 3764841073,
 	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"floatOrInt_me.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
